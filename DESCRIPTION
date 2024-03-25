@@ -13,3 +13,6 @@ Suggests:
 Config/testthat/edition: 3
 URL: https://github.com/openjusticeok/okbilltrackr, https://openjusticeok.github.io/okbilltrackr/
 BugReports: https://github.com/openjusticeok/okbilltrackr/issues
+Imports: 
+    httr2,
+    lifecycle
